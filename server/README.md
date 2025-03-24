@@ -1,0 +1,1 @@
+For functional real-time information create an .env following .env.example. A free tier account from www.football-data.org is required.
